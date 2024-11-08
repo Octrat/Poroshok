@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryManager", "HistoryManager\HistoryManager.csproj", "{361835E7-43FF-475C-A8AF-13BE2BCFED46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361835E7-43FF-475C-A8AF-13BE2BCFED46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361835E7-43FF-475C-A8AF-13BE2BCFED46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361835E7-43FF-475C-A8AF-13BE2BCFED46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361835E7-43FF-475C-A8AF-13BE2BCFED46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C5F0A4-499F-4F9D-BEC7-5A4D509A52A4}
+	EndGlobalSection
+EndGlobal
